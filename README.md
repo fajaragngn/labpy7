@@ -18,3 +18,15 @@ for row in range(0, 10):
 Penjelasan:
 * ``for row in range(0, 10):`` ``for col in range(0, 10):`` Variabel row / col berfungsi untuk menampung baris dan kolom, dan fungsi range() berfungsi untuk membuat list dengan area dari 0-10
 * 
+
+![latihan2](assets/img/lab/2.png)
+
+```
+import random
+nilai = int(input('Masukan nilai n : '))
+a = 0
+for x in range (nilai):
+    i = random.uniform(.0,.5)
+    a+=1
+    print('data ke :',a,'==>', i)
+```
