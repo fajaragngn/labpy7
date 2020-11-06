@@ -19,6 +19,9 @@ Penjelasan:
 * ``for row in range(0, 10):`` ``for col in range(0, 10):`` Variabel row / col berfungsi untuk menampung baris dan kolom, dan fungsi range() berfungsi untuk membuat list dengan area dari 0-10
 * 
 
+Output:
+![latihan1.1](assets/img/lab/1.1.png)
+
 ![latihan2](assets/img/lab/2.png)
 
 ```
@@ -30,3 +33,6 @@ for x in range (nilai):
     a+=1
     print('data ke :',a,'==>', i)
 ```
+
+Output:
+![latihan2.2](assets/img/lab/2.2.png)
