@@ -110,3 +110,22 @@ else: print('salah')
 Output:
 
 ![latihan3-modul2](assets/img/praktikum-2/3.png)
+
+## Tugas Praktikum 2
+
+```
+A = int(input('Masukkan bilangan pertama: '))
+B = int(input('Masukkan bilangan kedua: '))
+C = int(input('Masukkan bilangan ketiga: '))
+
+if A > B and A > C:
+    print('Nilai', A, 'terbesar dari 3 bilangan yang di inputkan')
+elif B > A and B > C:
+    print('Nilai', B, 'terbesar dari 3 bilangan yang di inputkan')
+else:
+    print('Nilai', C, 'terbesar dari 3 bilangan yang di inputkan')
+```
+Output:
+
+![tugas-praktikum-modul2](assets/img/praktikum-2/4.png)
+
