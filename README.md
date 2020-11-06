@@ -1,9 +1,8 @@
 # Lab 3
 ## Latihan 1
-![latihan1](assets/img/lab/1.png)
+![latihan1](assets/img/lab3/1.png)
 
 ```
-#bilangan bertingkat(nested)
 for row in range(0, 10):
     for col in range(0, 10):
         num = row + col
@@ -21,9 +20,9 @@ Penjelasan:
 
 Output:
 
-![latihan1.1](assets/img/lab/1.1.png)
+![latihan1.1](assets/img/lab3/1.1.png)
 
-![latihan2](assets/img/lab/2.png)
+![latihan2](assets/img/lab3/2.png)
 
 ```
 import random
@@ -41,12 +40,11 @@ Penjelasan:
 
 Output:
 
-![latihan2.2](assets/img/lab/2.2.png)
+![latihan2.2](assets/img/lab3/2.2.png)
 
 # Modul Praktikum 2
 ## Latihan 1: Membuat program menentukan nilai akhir
 ```
-#Membuat program menentukan nilai akhir
 nama = input('masukkan nama: ')
 uts = input('masukkan nilai uts: ')
 uas = input('masukkan nilai uas: ')
