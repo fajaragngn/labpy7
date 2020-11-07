@@ -133,4 +133,6 @@ Output:
 Flowchart
 ![flowchart-praktikum-modul2](assets/img/praktikum-2/fc-maks.png)
 
+# Modul Praktikum 3
+![latihan1-modul3](assets/img/praktikum-3/1.png)
 
