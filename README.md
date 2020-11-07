@@ -38,6 +38,8 @@ Penjelasan:
 * ``import random`` berfungsi untuk memanggil library random, dimana random berfungsi untuk menentukan pilihan secara acak
 * ``nilai = int(input('Masukan nilai n : '))`` untuk menginputkan nilai berupa integer
 * range() berfungsi menghasilkan list
+* masukkan ``i = random.uniform (.0,.5)`` di gunakan untuk menampilkan bilangan float random, lalu masukkan a+=1 untuk memberi nomer pada bilangan float.
+* ``print('data ke :',a,'==>', i)`` untuk menampilkan output data
 
 Output:
 
@@ -230,7 +232,9 @@ Penjelasan:
 
 * Bulan ke 8 mendapatkan laba 2% sehingga keuntungan menurun dari bulan sebelumnya, modal dikali 2% = keuntungan.
 
-* Menghitung jumlah total laba dengan menjumlah keuntungan dari bulan ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat.
+* Menghitung jumlah total laba dengan menjumlah keuntungan dari bulan ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat ``total=b+b+c+c+d+d+d+e``
+
+* ``print("\Total : ",total)``, untuk menampilkan hasil keseluruhan laba dari bulan pertama sampai bulan kedelapan.
 
 Output:
 
