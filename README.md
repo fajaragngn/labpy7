@@ -158,6 +158,21 @@ Output:
 ## Latihan 2
 ![latihan2-modul3](assets/img/praktikum-3/2.png)
 
+```
+max = 0
+while True:
+    a=int(input('Masukkan bilangan: '))
+    if max < a :
+        max = a
+    if a == 0:
+        break
+print('Bilangan terbesar adalah =', max)
+```
+Output:
+
+![latihan-2-out-modul3](assets/img/praktikum-3/2.1.png)
+
+
 ## Tugas Praktikum 3
 ![program-1-modul3](assets/img/praktikum-3/3.png)
 
