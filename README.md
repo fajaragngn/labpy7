@@ -131,7 +131,6 @@ Output:
 ![tugas-praktikum-modul2](assets/img/praktikum-2/5.png)
 
 Flowchart
-
 ![flowchart-praktikum-modul2](assets/img/praktikum-2/fc-maks.png)
 
 
