@@ -136,3 +136,20 @@ Flowchart
 # Modul Praktikum 3
 ![latihan1-modul3](assets/img/praktikum-3/1.png)
 
+```
+import random
+nilai = int(input('Masukan nilai n : '))
+a = 0
+for x in range (nilai):
+    i = random.uniform(.0,.5)
+    a+=1
+    print('data ke :',a,'==>', i)
+```
+Penjelasan:
+* ``import random`` berfungsi untuk memanggil library random, dimana random berfungsi untuk menentukan pilihan secara acak
+* ``nilai = int(input('Masukan nilai n : '))`` untuk menginputkan nilai berupa integer
+* range() berfungsi menghasilkan list
+
+Output:
+
+![latihan2.2](assets/img/lab3/2.2.png)
