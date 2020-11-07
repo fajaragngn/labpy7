@@ -100,6 +100,8 @@ if gaji > 3000000:
 else:
     print("Gaji belum UMR")
 ```
+Penjelasan:
+
 Output:
 
 ![latihan2-modul2](assets/img/praktikum-2/2.png)
@@ -114,6 +116,8 @@ if a+b == c or b+c == a or c+a == b:
     print('benar')
 else: print('salah')
 ```
+Penjelasan:
+
 Output:
 
 ![latihan3-modul2](assets/img/praktikum-2/3.png)
@@ -133,6 +137,8 @@ elif B > A and B > C:
 else:
     print('Nilai', C, 'terbesar dari 3 bilangan yang di inputkan')
 ```
+Penjelasan:
+
 Output:
 
 ![tugas-praktikum-modul2](assets/img/praktikum-2/5.png)
