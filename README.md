@@ -13,8 +13,7 @@ for bar in range(baris):
     print()
 ```
 Penjelasan:
-* ``for row in range(0, 10):`` ``for col in range(0, 10):`` Variabel row / col berfungsi untuk menampung baris dan kolom, dan fungsi range() berfungsi untuk membuat list dengan area dari 0-10
-* 
+
 
 Output:
 
