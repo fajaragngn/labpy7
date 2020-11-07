@@ -134,6 +134,7 @@ Flowchart
 ![flowchart-praktikum-modul2](assets/img/praktikum-2/fc-maks.png)
 
 # Modul Praktikum 3
+## Latihan 1
 ![latihan1-modul3](assets/img/praktikum-3/1.png)
 
 ```
@@ -154,8 +155,10 @@ Output:
 
 ![latihan2.2](assets/img/lab3/2.2.png)
 
+## Latihan 2
 ![latihan2-modul3](assets/img/praktikum-3/2.png)
 
+## Tugas Praktikum 3
 ![program-1-modul3](assets/img/praktikum-3/3.png)
 
 ```
