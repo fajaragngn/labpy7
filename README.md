@@ -132,6 +132,6 @@ Output:
 
 Flowchart
 
-![flowchart-praktikum-modul2](assets/img/praktikum-2/fc-2.png)
+![flowchart-praktikum-modul2](assets/img/praktikum-2/fc-maks.png)
 
 
