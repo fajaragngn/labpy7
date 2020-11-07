@@ -160,6 +160,8 @@ Penjelasan:
 * ``import random`` berfungsi untuk memanggil library random, dimana random berfungsi untuk menentukan pilihan secara acak
 * ``nilai = int(input('Masukan nilai n : '))`` untuk menginputkan nilai berupa integer
 * range() berfungsi menghasilkan list
+* masukkan ``i = random.uniform (.0,.5)`` di gunakan untuk menampilkan bilangan float random, lalu masukkan a+=1 untuk memberi nomer pada bilangan float.
+* ``print('data ke :',a,'==>', i)`` untuk menampilkan output data
 
 Output:
 
