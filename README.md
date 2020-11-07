@@ -22,6 +22,7 @@ Output:
 
 ![latihan1.1](assets/img/lab3/1.1.png)
 
+## Latihan 2
 ![latihan2](assets/img/lab3/2.png)
 
 ```
@@ -64,12 +65,19 @@ else:
 
 print("\nNama :",nama) 
 print("Nilai UAS :",uas) 
-print("Nilai UTS :",uts) 
+print("Nilai UTS :",uts)
+print("Nilai Tugas :",tugas)  
 print("Nilai akhir :",akhir) 
 print("\nNilai huruf :",huruf) 
 print("keterangan :",keterangan) 
 
 ```
+Penjelasan:
+* Masukkan nilai yang sudah di tentukan oleh variabel, seperti ``nama, uts, uas,tugas``
+* untuk ``akhir = (int(tugas) * .2) + (int(uts) * .4) + (int(uts) * .4)``
+* 
+
+
 Output:
 
 ![latihan1-modul2](assets/img/praktikum-2/1.png)
@@ -208,7 +216,7 @@ total=b+b+c+c+d+d+d+e
 print("\Total : ",total)
 ```
 Penjelasan:
-* Variabel a = 100.000.000( modal awal)
+* Variabel ``a = 100.000.000`` modal awal
 
 * Menggunakan fungsi looping for pada nilai x 1-9 untuk menampilkan bulan 1 sampai bulan 8.
 
@@ -220,7 +228,7 @@ Penjelasan:
 
 * Bulan ke 5 mendapatkan laba 5%, sehingga modal dikali 5% = keuntungan
 
-* Bulan ke 8 mmendapatkan laba 2% sehingga keuntungan menurun dari bulan sebelumnya, modal dikali 2% = keuntungan.
+* Bulan ke 8 mendapatkan laba 2% sehingga keuntungan menurun dari bulan sebelumnya, modal dikali 2% = keuntungan.
 
 * Menghitung jumlah total laba dengan menjumlah keuntungan dari bulan ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat.
 

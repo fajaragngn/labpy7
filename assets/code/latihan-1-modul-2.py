@@ -18,7 +18,8 @@ else:
 
 print("\nNama :",nama) 
 print("Nilai UAS :",uas) 
-print("Nilai UTS :",uts) 
+print("Nilai UTS :",uts)
+print("Nilai Tugas :",tugas)  
 print("Nilai akhir :",akhir) 
 print("\nNilai huruf :",huruf) 
 print("keterangan :",keterangan) 
