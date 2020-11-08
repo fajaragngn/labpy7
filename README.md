@@ -54,7 +54,7 @@ Output:
 
 ## Latihan 3: penggunaan kondisi OR program membandingkan 3 input bilangan, apabila penjumlahan 2 bilangan hasilnya sama dengan bilangan lainnya, maka cetak pernyataan “BENAR”
 
-![code-2-2](assets/img/code/code-2-2.png)
+![code-2-2](assets/img/code/code-3-2.png)
 
 Penjelasan:
 
