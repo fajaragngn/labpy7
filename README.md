@@ -36,11 +36,11 @@ Penjelasan:
 * Masukkan nilai yang sudah di tentukan oleh variabel, seperti ``nama, uts, uas,tugas``
 * untuk ``akhir = (int(tugas) * .2) + (int(uts) * .4) + (int(uts) * .4)``
 * ``if akhir > 80:`` Jika nilai akhir diatas 80, maka ``huruf = 'A'``
-* ``elif akhir > 70:`` Jika nilai akhir diatas 70, maka ``huruf = 'B'``
-* ``elif akhir > 50:`` Jika nilai akhir diatas 50, maka ``huruf = 'C'``
-* ``elif akhir > 40:`` Jika nilai akhir diatas 40, maka ``huruf = 'D'``
+* ``elif akhir > 70:`` dan jika nilai akhir diatas 70, maka ``huruf = 'B'``
+* ``elif akhir > 50:`` dan jika nilai akhir diatas 50, maka ``huruf = 'C'``
+* ``elif akhir > 40:`` dan jika nilai akhir diatas 40, maka ``huruf = 'D'``
 * ``else:`` selain itu maka ``huruf = 'E'``
-* ``print`` cetak nilai akhir
+* cetak nilai akhir ``print``
 
 
 Output:
@@ -54,7 +54,7 @@ Output:
 Penjelasan:
 * ``gaji = int(input("Masukkan gaji:"))`` masukkan jumlah gaji
 * ``if gaji > 3000000:`` jika gaji diatas 3jt, maka ``print ("Gaji sudah diatas UMR")`` jika tidak, maka ``else: print("Gaji belum UMR")`` dan juga pengkondisian yang lainnya
-* maka data akan di cetak sesuai data ``gaji, berkeluarga & sudah / belum punya rumah``
+* maka data akan di cetak sesuai data yang di isi
 
 Output:
 
@@ -79,7 +79,10 @@ Output:
 ![code-3-2](assets/img/code/code-3.png)
 
 Penjelasan:
-
+* ``A = int(input('Masukkan bilangan pertama: '))`` masukkan nilai bilangan pertama, dan lakukan juga pada bilangan kedua dan ketiga pada saat runtime
+* ``if A > B and A > C:`` jika A lebih besar dari B dan A lebih besar dari C maka ``print('Nilai', A, 'terbesar dari 3 bilangan yang di inputkan')``
+* ``elif B > A and B > C:`` dan jika B lebih besar dari A dan B lebih besar dari C maka ``print('Nilai', B, 'terbesar dari 3 bilangan yang di inputkan')``
+* ``else:`` selain itu maka ``print('Nilai', C, 'terbesar dari 3 bilangan yang di inputkan')``
 
 Output:
 
