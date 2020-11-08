@@ -30,7 +30,7 @@ Output:
 # Modul Praktikum 2
 ## Latihan 1: Membuat program menentukan nilai akhir
 
-![code-3](assets/img/code/code-3.png)
+![code-1-2](assets/img/code/code-1-2.png)
 
 Penjelasan:
 * Masukkan nilai yang sudah di tentukan oleh variabel, seperti ``nama, uts, uas,tugas``
