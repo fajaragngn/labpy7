@@ -35,7 +35,12 @@ Output:
 Penjelasan:
 * Masukkan nilai yang sudah di tentukan oleh variabel, seperti ``nama, uts, uas,tugas``
 * untuk ``akhir = (int(tugas) * .2) + (int(uts) * .4) + (int(uts) * .4)``
-* 
+* ``if akhir > 80:`` Jika nilai akhir diatas 80, maka ``huruf = 'A'``
+* ``elif akhir > 70:`` Jika nilai akhir diatas 70, maka ``huruf = 'B'``
+* ``elif akhir > 50:`` Jika nilai akhir diatas 50, maka ``huruf = 'C'``
+* ``elif akhir > 40:`` Jika nilai akhir diatas 40, maka ``huruf = 'D'``
+* ``else:`` selain itu maka ``huruf = 'E'``
+* ``print`` cetak nilai akhir
 
 
 Output:
