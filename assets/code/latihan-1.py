@@ -1,9 +1,11 @@
 #bilangan bertingkat(nested)
-baris = 10
-kolom = baris
-
-for bar in range(baris):
-    for col in range(kolom):
-        tab = bar+col
-        print("{0:>5}".format(tab), end='')
+for row in range(0, 10):
+    for col in range(0, 10):
+        num = row + col
+        if num < 10:
+            empty = "  "
+        else:
+            if num < 100:
+                empty  = " "
+        print(empty, num, end = '')
     print()
