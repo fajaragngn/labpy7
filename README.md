@@ -52,6 +52,9 @@ Output:
 ![code-2-2](assets/img/code/code-2-2.png)
 
 Penjelasan:
+* ``gaji = int(input("Masukkan gaji:"))`` masukkan jumlah gaji
+* ``if gaji > 3000000:`` jika gaji diatas 3jt, maka ``print ("Gaji sudah diatas UMR")`` jika tidak, maka ``else: print("Gaji belum UMR")`` dan juga pengkondisian yang lainnya
+* maka data akan di cetak sesuai data ``gaji, berkeluarga & sudah / belum punya rumah``
 
 Output:
 
@@ -62,6 +65,9 @@ Output:
 ![code-2-2](assets/img/code/code-3-2.png)
 
 Penjelasan:
+* ``a = int(input('Masukkan bilangan A: '))`` Masukkan bilangan A pada saat runtime, lakukan juga pada bilangan B dan C
+* ``if a+b == c or b+c == a or c+a == b:`` jika a+b = c atau b+c = a atau c+a = b maka ``print('benar')``
+* selain itu maka ``else: print('salah')``
 
 Output:
 
@@ -73,6 +79,7 @@ Output:
 ![code-3-2](assets/img/code/code-3.png)
 
 Penjelasan:
+
 
 Output:
 
