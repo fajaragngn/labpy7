@@ -44,7 +44,7 @@ Output:
 
 ## Latihan 2: Membuat program menampilkan status gaji karyawan
 
-![code-1-2](assets/img/code/code-1-2.png)
+![code-2-2](assets/img/code/code-2-2.png)
 
 Penjelasan:
 
