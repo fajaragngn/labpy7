@@ -65,7 +65,7 @@ Output:
 ## Tugas Praktikum 2
 ![soal-praktikum-modul2](assets/img/praktikum-2/praktikum.png)
 
-![code-3-2](assets/img/code/code-3-2.png)
+![code-3-2](assets/img/code/code-3.png)
 
 Penjelasan:
 
