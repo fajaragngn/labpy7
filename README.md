@@ -5,7 +5,11 @@
 ![code-1](assets/img/code/code-1.png)
 
 Penjelasan:
-
+* ``for row in range(0, 10):`` dan ``for col in range(0, 10):`` untuk membuat list antara 0 sampai 10
+* ``num = row + col`` nilai row dan col akan di tampung di variabel num
+* ``if num < 10:`` jika num lebh kecil dari 10 maka ``empty = "  "``
+* ``else:`` selain itu jika ``if num < 100:`` maka ``empty  = " "``
+* dan cetak ``print(empty, num, end = '')`` ``print()``
 
 Output:
 
